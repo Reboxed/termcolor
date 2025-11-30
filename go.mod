@@ -1,4 +1,4 @@
-module github.com/efekarakus/termcolor
+module github.com/Reboxed/termcolor
 
 go 1.13
 
